@@ -1,0 +1,18 @@
+update
+update
+update
+update
+update
+view square
+view square
+execute (printText square 2)
+execute (printText square 2)
+execute (square 2)
+add
+view
+update
+show
+execute (square 2)
+square 2
+update
+add
